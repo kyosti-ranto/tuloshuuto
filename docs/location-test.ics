@@ -10,7 +10,7 @@ DTSTAMP:20261026T120000Z
 DTSTART:20261205T162000Z
 DTEND:20261205T171000Z
 SUMMARY:TESTI 1 - LOCATION koko osoite
-DESCRIPTION:Testi 1 - standardi LOCATION koko osoitteella.
+DESCRIPTION:Harjuniitty\, Lautamiehenkatu 1\, Nokia\nTesti 1 - standardi LOCATION koko osoitteella ja vielä kuvauksessa omalla rivillään.
 LOCATION:Harjuniitty\, Lautamiehenkatu 1\, Nokia
 END:VEVENT
 BEGIN:VEVENT
